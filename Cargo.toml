@@ -1,5 +1,5 @@
 [package]
-name = "Data_Assist_Remote_Access"
+name = "data_assist_remote_access"
 version = "1.2.2"
 authors = ["rustdesk <info@rustdesk.com>"]
 edition = "2021"
