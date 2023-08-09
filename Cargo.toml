@@ -5,7 +5,7 @@ authors = ["rustdesk <info@rustdesk.com>"]
 edition = "2021"
 build= "build.rs"
 description = "Data Assist Remote Access"
-default-run = "Data_Assist_Remote_Access"
+default-run = "data_assist_remote_access"
 
 [lib]
 name = "librustdesk"
