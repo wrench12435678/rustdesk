@@ -1,11 +1,11 @@
 [package]
-name = "sinorrah-rd"
+name = "sinorrah_support"
 version = "1.2.2"
 authors = ["rustdesk <info@rustdesk.com>"]
 edition = "2021"
 build= "build.rs"
 description = "Sinorrah Remote Access"
-default-run = "sinorrah-rd"
+default-run = "sinorrah_support"
 
 [lib]
 name = "librustdesk"
