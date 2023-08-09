@@ -4,7 +4,7 @@ version = "1.2.2"
 authors = ["rustdesk <info@rustdesk.com>"]
 edition = "2021"
 build= "build.rs"
-description = "Data Assist Remote Access"
+description = "Sinorrah Remote Access"
 default-run = "rustdesk"
 
 [lib]
